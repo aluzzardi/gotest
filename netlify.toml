@@ -3,3 +3,4 @@
   query = {go-get = "1"}
   to = "/go.html"
   status = 200
+  force = true  
