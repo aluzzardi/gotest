@@ -1,6 +1,7 @@
 [[redirects]]
+  # `go get dagger.io/dagger` support. DO NOT REMOVE.
   from = "/*"
   query = {go-get = "1"}
   to = "/go.html"
   status = 200
-  force = true  
+  force = true
